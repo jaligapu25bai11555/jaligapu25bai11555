@@ -1,4 +1,4 @@
-# Hi, I'm Hasith 👋
+# Hi, I'm Hasith 
 
 🎓 B.Tech CSE (AI/ML) | 1st Year  
 🏫 VIT Bhopal University  
