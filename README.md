@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Hasith 👋
+
+🎓 B.Tech CSE (AI/ML) | 1st Year  
+🏫 VIT Bhopal University  
+
+I am interested in learning programming, building real-world projects, and exploring AI and machine learning.
 
 <!--
 **jaligapu25bai11555/jaligapu25bai11555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
